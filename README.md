@@ -7,7 +7,7 @@ CMS2-OP3/OP4
 Je hebt CMS Basic afgerond en hebt nu een werkende lokale CMS website.
 In CMS Advanced maak je een nieuwe reeks taken waarmee je je tot een gevorderde WordPress gebruiker kunt ontwikkelen
 
-Bij elke taak staan links naar PDF-documenten met informatie, instructie en voorbeelden OF een link naar een website of YouTube-filmpje met instructies.
+Bij elke taak staan links naar PDF-documenten met informatie, instructie  en voorbeelden OF een link naar een website of YouTube-filmpje met instructies.
 
 De taken bestaan uit het verder inrichten en uitbreiden van je lokale CMS website.
 Zo leer je o.a. een Child Theme te maken en te werken met categorieën en tags. Na het maken van elke taak wordt je gevraagd om een klein verslag te maken van je werkzaamheden met daarbij enkele screenshots om je vorderingen te laten zien aan de docent.
