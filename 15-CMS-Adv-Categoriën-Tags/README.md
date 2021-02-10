@@ -8,7 +8,9 @@ Een zeer belangrijke functie van WordPress is het onderdeel categorieën en tags
 
 Categorieën en tags zijn de twee belangrijkste manieren om content op een WordPress website te groeperen. Simpel gezegd zijn categorieën algemene labels, terwijl tags specifieker zijn en jouw berichten gedetailleerder beschrijven. Laten we categorieën en tags één voor één in WordPress bespreken.
 
-Categorieën zijn de algemene methode voor het groeperen van content op een WordPress site. Een categorie symboliseert een onderwerp of een groep onderwerpen die met elkaar verbonden zijn. Soms kan een bericht tegelijkertijd tot verschillende categorieën behoren. Wees hier terughoudend in en vermijd om 2-3 categorieën aan één bericht toe te wijzen. Het punt hier is om je content netjes te organiseren, zodat de gebruikservaring en toegankelijkheid wordt gestimuleerd voor de lezers.
+Categorieën zijn de algemene methode voor het groeperen van content op een WordPress site. Een categorie symboliseert een onderwerp of een groep onderwerpen die met elkaar verbonden zijn. Soms kan een bericht tegelijkertijd tot verschillende categorieën behoren. Wees hier terughoudend in en vermijd om 2-3 categorieën aan één bericht toe te wijzen.
+
+Het punt hier is om de inhoud van jouw website (dus: de *content*) netjes te organiseren, zodat de gebruikerservaring én toegankelijkheid positief wordt gestimuleerd voor de bezoekers.
 
 In bijgaande taak vind je de instructie voor het toepassen van categorieën en tags. Pas deze nauwkeurig toe op jouw website zodat je in een demo kunt laten zien dat bij gebruik van de zoekfunctie ook de juiste informatie getoond wordt.
 Het gedeelte waarin het gebruik van Yoast SEO besproken wordt is interessant, maar alleen dan nuttig als je website echt online staat.

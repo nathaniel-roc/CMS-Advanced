@@ -4,7 +4,7 @@ CMS2-OP3/OP4
 
 *Introductie*
 
-In een vorige taak (10) heb je een volledige backup gemaakt van je lokale website. Dat is een goed startpunt om een volgende zekerheid te realiseren.
+In een vorige taak (12) heb je een volledige backup gemaakt van je lokale website. Dat is een goed startpunt om een volgende zekerheid te realiseren.
 
 Zoals je hopelijk weet verschijnen er dagelijks updates voor WordPress Thema's (ook wel sjablonen genoemd) en natuurlijk ook voor de vele plug-ins die er beschikbaar zijn. Nieuwe versies van thema's en plug-ins kunnen voor veranderingen in je website zorgen. Soms zijn dat geen grote veranderingen en heb je er geen last van. Echter kan het zo zijn dat bij een update van vooral een thema, er dingen opvallender veranderen aan je site. Veranderingen waar jij geen zin in hebt. Door updates toe te passen - vaak heb je deze nodig voor betere functionaliteit of bescherming tegen hacking - loop je dus het risico dat je site verandert of zelfs stuk gaat zonder dat je dat wilt.
 
