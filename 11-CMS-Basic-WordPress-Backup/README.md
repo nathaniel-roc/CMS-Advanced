@@ -4,7 +4,7 @@ CMS2-OP3/OP4
 
 *Introductie*
 
-Je hebt een werkende lokale CMS website waaraan je waarschijnlijk het nodige aan hebt toegevoegd zoals pagina's, berichten, teksten en plaatjes, misschien filmpjes, een ander thema en specifieke instellingen, enzovoort.
+Je hebt een werkende lokale CMS website waaraan je als het goed is, het nodige aan hebt toegevoegd zoals pagina's, berichten, teksten en plaatjes, misschien filmpjes, een ander thema en specifieke instellingen, enzovoort.
 Hoewel je in het geval van een crash of kwijtraken van gegevens, vrij makkelijk en snel een nieuwe site kunt opzetten, is het toch handiger om een reservekopie oftewel backup te hebben. 
 Datzelfde geldt voor je hele PC/laptop, ook al denkt daar niet iedereen daar altijd op tijd aan.
 
