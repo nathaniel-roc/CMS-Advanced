@@ -1,8 +1,8 @@
-**CMS Advanced**
+# CMS Advanced
 
-CMS2-OP3/OP4
+## Het vervolg op CMS BASIC
 
-*Introductie*
+## Introductie
 
 Je hebt CMS Basic afgerond en hebt nu een werkende lokale CMS website.
 In CMS Advanced maak je een nieuwe reeks taken waarmee je je tot een gevorderde WordPress gebruiker kunt ontwikkelen
